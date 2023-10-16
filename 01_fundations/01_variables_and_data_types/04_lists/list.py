@@ -42,6 +42,7 @@ squared_numbers = [x ** 2 for x in numbers]  # List comprehension to square each
 
 # List methods
 numbers = [1, 2, 3, 4, 5]
+
 numbers.append(6)  # Append
 numbers.insert(0, 0)  # Insert
 numbers.pop()  # Pop
