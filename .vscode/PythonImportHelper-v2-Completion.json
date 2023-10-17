@@ -1,0 +1,1131 @@
+[
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "uvicorn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uvicorn",
+        "description": "uvicorn",
+        "detail": "uvicorn",
+        "documentation": {}
+    },
+    {
+        "label": "user_routes",
+        "importPath": "routers",
+        "description": "routers",
+        "isExtraImport": true,
+        "detail": "routers",
+        "documentation": {}
+    },
+    {
+        "label": "product_routes",
+        "importPath": "routers",
+        "description": "routers",
+        "isExtraImport": true,
+        "detail": "routers",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "description": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "peekOfCode": "x = 5\ny = -10\nz = 0\n# Floats in Python\npi = 3.14159\ntemperature = 98.6\n# Mathematical operations with numbers\na = 10\nb = 3\naddition_result = a + b",
+        "detail": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "description": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "peekOfCode": "y = -10\nz = 0\n# Floats in Python\npi = 3.14159\ntemperature = 98.6\n# Mathematical operations with numbers\na = 10\nb = 3\naddition_result = a + b\ndivision_result = a / b",
+        "detail": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "documentation": {}
+    },
+    {
+        "label": "z",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "description": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "peekOfCode": "z = 0\n# Floats in Python\npi = 3.14159\ntemperature = 98.6\n# Mathematical operations with numbers\na = 10\nb = 3\naddition_result = a + b\ndivision_result = a / b\nexponent_result = a ** b",
+        "detail": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "documentation": {}
+    },
+    {
+        "label": "pi",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "description": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "peekOfCode": "pi = 3.14159\ntemperature = 98.6\n# Mathematical operations with numbers\na = 10\nb = 3\naddition_result = a + b\ndivision_result = a / b\nexponent_result = a ** b\nmodulus_result = a % b\nfloor_division_result = a // b",
+        "detail": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "documentation": {}
+    },
+    {
+        "label": "temperature",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "description": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "peekOfCode": "temperature = 98.6\n# Mathematical operations with numbers\na = 10\nb = 3\naddition_result = a + b\ndivision_result = a / b\nexponent_result = a ** b\nmodulus_result = a % b\nfloor_division_result = a // b\n# Complex numbers",
+        "detail": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "description": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "peekOfCode": "a = 10\nb = 3\naddition_result = a + b\ndivision_result = a / b\nexponent_result = a ** b\nmodulus_result = a % b\nfloor_division_result = a // b\n# Complex numbers\nc = 1 + 2j\nd = 3 - 4j",
+        "detail": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "description": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "peekOfCode": "b = 3\naddition_result = a + b\ndivision_result = a / b\nexponent_result = a ** b\nmodulus_result = a % b\nfloor_division_result = a // b\n# Complex numbers\nc = 1 + 2j\nd = 3 - 4j\nprint(c + d)",
+        "detail": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "documentation": {}
+    },
+    {
+        "label": "addition_result",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "description": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "peekOfCode": "addition_result = a + b\ndivision_result = a / b\nexponent_result = a ** b\nmodulus_result = a % b\nfloor_division_result = a // b\n# Complex numbers\nc = 1 + 2j\nd = 3 - 4j\nprint(c + d)",
+        "detail": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "documentation": {}
+    },
+    {
+        "label": "division_result",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "description": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "peekOfCode": "division_result = a / b\nexponent_result = a ** b\nmodulus_result = a % b\nfloor_division_result = a // b\n# Complex numbers\nc = 1 + 2j\nd = 3 - 4j\nprint(c + d)",
+        "detail": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "documentation": {}
+    },
+    {
+        "label": "exponent_result",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "description": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "peekOfCode": "exponent_result = a ** b\nmodulus_result = a % b\nfloor_division_result = a // b\n# Complex numbers\nc = 1 + 2j\nd = 3 - 4j\nprint(c + d)",
+        "detail": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "documentation": {}
+    },
+    {
+        "label": "modulus_result",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "description": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "peekOfCode": "modulus_result = a % b\nfloor_division_result = a // b\n# Complex numbers\nc = 1 + 2j\nd = 3 - 4j\nprint(c + d)",
+        "detail": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "documentation": {}
+    },
+    {
+        "label": "floor_division_result",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "description": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "peekOfCode": "floor_division_result = a // b\n# Complex numbers\nc = 1 + 2j\nd = 3 - 4j\nprint(c + d)",
+        "detail": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "description": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "peekOfCode": "c = 1 + 2j\nd = 3 - 4j\nprint(c + d)",
+        "detail": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "documentation": {}
+    },
+    {
+        "label": "d",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "description": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "peekOfCode": "d = 3 - 4j\nprint(c + d)",
+        "detail": "01_fundations.01_variables_and_data_types.01_numeric.numbers",
+        "documentation": {}
+    },
+    {
+        "label": "first_name",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "description": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "peekOfCode": "first_name = \"Andres\"\nlast_name = \"Parra\"\n# String Operations\n# 1. Concatenate\nfull_name = first_name + \" \" + last_name\n# 2. Indexing\ntext = \"Python\"\nprint(text[0])\nprint(text[1])\nprint(text[2])",
+        "detail": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "documentation": {}
+    },
+    {
+        "label": "last_name",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "description": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "peekOfCode": "last_name = \"Parra\"\n# String Operations\n# 1. Concatenate\nfull_name = first_name + \" \" + last_name\n# 2. Indexing\ntext = \"Python\"\nprint(text[0])\nprint(text[1])\nprint(text[2])\nprint(text[3])",
+        "detail": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "documentation": {}
+    },
+    {
+        "label": "full_name",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "description": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "peekOfCode": "full_name = first_name + \" \" + last_name\n# 2. Indexing\ntext = \"Python\"\nprint(text[0])\nprint(text[1])\nprint(text[2])\nprint(text[3])\nprint(text[4])\nprint(text[5])\n# 3. Slicing",
+        "detail": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "description": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "peekOfCode": "text = \"Python\"\nprint(text[0])\nprint(text[1])\nprint(text[2])\nprint(text[3])\nprint(text[4])\nprint(text[5])\n# 3. Slicing\ntext_slice = text[0:3]\nprint(text_slice) # Print \"Pyth\"",
+        "detail": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "documentation": {}
+    },
+    {
+        "label": "text_slice",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "description": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "peekOfCode": "text_slice = text[0:3]\nprint(text_slice) # Print \"Pyth\"\n# 4. Length\ntext = \"Hello, World!\"\nprint(len(text)) # Returns 13\n# 5. String Basic Methods\nmessage = \"Hello, Python!\"\nlower_case = message.lower() # Converts \"Hello, Python!\" to \"hello, python!\"\nword_count = message.count(\"o\") # Returns 2\nwords = message.split(\", \") # Splits \"Hello, Python!\" into [\"Hello\", \"Python!\"]",
+        "detail": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "documentation": {}
+    },
+    {
+        "label": "text",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "description": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "peekOfCode": "text = \"Hello, World!\"\nprint(len(text)) # Returns 13\n# 5. String Basic Methods\nmessage = \"Hello, Python!\"\nlower_case = message.lower() # Converts \"Hello, Python!\" to \"hello, python!\"\nword_count = message.count(\"o\") # Returns 2\nwords = message.split(\", \") # Splits \"Hello, Python!\" into [\"Hello\", \"Python!\"]\n# 6. Escape Sequences\nmessage = \"This is a line. \\nThis is another line.\"\ntabbed = 'First element\\tSecond element'",
+        "detail": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "documentation": {}
+    },
+    {
+        "label": "message",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "description": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "peekOfCode": "message = \"Hello, Python!\"\nlower_case = message.lower() # Converts \"Hello, Python!\" to \"hello, python!\"\nword_count = message.count(\"o\") # Returns 2\nwords = message.split(\", \") # Splits \"Hello, Python!\" into [\"Hello\", \"Python!\"]\n# 6. Escape Sequences\nmessage = \"This is a line. \\nThis is another line.\"\ntabbed = 'First element\\tSecond element'\nquote = \"He said, \\\"This is a quote.\\\"\"\nprint(\"Message: \", message)\nprint(\"--\"*10)",
+        "detail": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "documentation": {}
+    },
+    {
+        "label": "lower_case",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "description": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "peekOfCode": "lower_case = message.lower() # Converts \"Hello, Python!\" to \"hello, python!\"\nword_count = message.count(\"o\") # Returns 2\nwords = message.split(\", \") # Splits \"Hello, Python!\" into [\"Hello\", \"Python!\"]\n# 6. Escape Sequences\nmessage = \"This is a line. \\nThis is another line.\"\ntabbed = 'First element\\tSecond element'\nquote = \"He said, \\\"This is a quote.\\\"\"\nprint(\"Message: \", message)\nprint(\"--\"*10)\nprint(\"Tabbed: \", tabbed)",
+        "detail": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "documentation": {}
+    },
+    {
+        "label": "word_count",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "description": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "peekOfCode": "word_count = message.count(\"o\") # Returns 2\nwords = message.split(\", \") # Splits \"Hello, Python!\" into [\"Hello\", \"Python!\"]\n# 6. Escape Sequences\nmessage = \"This is a line. \\nThis is another line.\"\ntabbed = 'First element\\tSecond element'\nquote = \"He said, \\\"This is a quote.\\\"\"\nprint(\"Message: \", message)\nprint(\"--\"*10)\nprint(\"Tabbed: \", tabbed)\nprint(\"--\"*10)",
+        "detail": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "documentation": {}
+    },
+    {
+        "label": "words",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "description": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "peekOfCode": "words = message.split(\", \") # Splits \"Hello, Python!\" into [\"Hello\", \"Python!\"]\n# 6. Escape Sequences\nmessage = \"This is a line. \\nThis is another line.\"\ntabbed = 'First element\\tSecond element'\nquote = \"He said, \\\"This is a quote.\\\"\"\nprint(\"Message: \", message)\nprint(\"--\"*10)\nprint(\"Tabbed: \", tabbed)\nprint(\"--\"*10)\nprint(\"Quote: \", quote)",
+        "detail": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "documentation": {}
+    },
+    {
+        "label": "message",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "description": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "peekOfCode": "message = \"This is a line. \\nThis is another line.\"\ntabbed = 'First element\\tSecond element'\nquote = \"He said, \\\"This is a quote.\\\"\"\nprint(\"Message: \", message)\nprint(\"--\"*10)\nprint(\"Tabbed: \", tabbed)\nprint(\"--\"*10)\nprint(\"Quote: \", quote)\nprint(\"--\"*10)\n# 7. String Formatting",
+        "detail": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "documentation": {}
+    },
+    {
+        "label": "tabbed",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "description": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "peekOfCode": "tabbed = 'First element\\tSecond element'\nquote = \"He said, \\\"This is a quote.\\\"\"\nprint(\"Message: \", message)\nprint(\"--\"*10)\nprint(\"Tabbed: \", tabbed)\nprint(\"--\"*10)\nprint(\"Quote: \", quote)\nprint(\"--\"*10)\n# 7. String Formatting\nname = \"Arya\"",
+        "detail": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "documentation": {}
+    },
+    {
+        "label": "quote",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "description": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "peekOfCode": "quote = \"He said, \\\"This is a quote.\\\"\"\nprint(\"Message: \", message)\nprint(\"--\"*10)\nprint(\"Tabbed: \", tabbed)\nprint(\"--\"*10)\nprint(\"Quote: \", quote)\nprint(\"--\"*10)\n# 7. String Formatting\nname = \"Arya\"\nage = 1",
+        "detail": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "documentation": {}
+    },
+    {
+        "label": "name",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "description": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "peekOfCode": "name = \"Arya\"\nage = 1\n# Example with string concatenation\nformatted_string = f\"My name is {name} and I am {age} years old.\"\nprint(formatted_string)\n# Example with str.format()\nformatted_string = \"My name is {} and I am {} years old.\".format(name, age)\nprint(formatted_string)",
+        "detail": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "documentation": {}
+    },
+    {
+        "label": "age",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "description": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "peekOfCode": "age = 1\n# Example with string concatenation\nformatted_string = f\"My name is {name} and I am {age} years old.\"\nprint(formatted_string)\n# Example with str.format()\nformatted_string = \"My name is {} and I am {} years old.\".format(name, age)\nprint(formatted_string)",
+        "detail": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "documentation": {}
+    },
+    {
+        "label": "formatted_string",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "description": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "peekOfCode": "formatted_string = f\"My name is {name} and I am {age} years old.\"\nprint(formatted_string)\n# Example with str.format()\nformatted_string = \"My name is {} and I am {} years old.\".format(name, age)\nprint(formatted_string)",
+        "detail": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "documentation": {}
+    },
+    {
+        "label": "formatted_string",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "description": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "peekOfCode": "formatted_string = \"My name is {} and I am {} years old.\".format(name, age)\nprint(formatted_string)",
+        "detail": "01_fundations.01_variables_and_data_types.02_text.strings",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "description": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "peekOfCode": "numbers = [1, 2, 3]\nfamily = ['Arya', 'Angelo', 'Marcela', 'Andres']\n# also\nchildren = list(['Arya', 'Angelo'])\n# Accessing list elements\nprint(numbers[0]) # Prints 1\nprint(family[0]) # Prints Arya\n# Modifying list elements\nnumbers[0] = 5\nprint(numbers[0]) # Prints 5",
+        "detail": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "documentation": {}
+    },
+    {
+        "label": "family",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "description": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "peekOfCode": "family = ['Arya', 'Angelo', 'Marcela', 'Andres']\n# also\nchildren = list(['Arya', 'Angelo'])\n# Accessing list elements\nprint(numbers[0]) # Prints 1\nprint(family[0]) # Prints Arya\n# Modifying list elements\nnumbers[0] = 5\nprint(numbers[0]) # Prints 5\n# List operations",
+        "detail": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "documentation": {}
+    },
+    {
+        "label": "children",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "description": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "peekOfCode": "children = list(['Arya', 'Angelo'])\n# Accessing list elements\nprint(numbers[0]) # Prints 1\nprint(family[0]) # Prints Arya\n# Modifying list elements\nnumbers[0] = 5\nprint(numbers[0]) # Prints 5\n# List operations\nlist1 = [1, 2, 3]\nlist2 = [4, 5, 6]",
+        "detail": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "documentation": {}
+    },
+    {
+        "label": "numbers[0]",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "description": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "peekOfCode": "numbers[0] = 5\nprint(numbers[0]) # Prints 5\n# List operations\nlist1 = [1, 2, 3]\nlist2 = [4, 5, 6]\ncombined_list = list1 + list2  # Concatenation\nsliced_list = combined_list[1:4]  # Slicing\nlist_length = len(sliced_list)  # Length\ncombined_list.sort()  # Sorting in ascending order\n# List comprehensions",
+        "detail": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "documentation": {}
+    },
+    {
+        "label": "list1",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "description": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "peekOfCode": "list1 = [1, 2, 3]\nlist2 = [4, 5, 6]\ncombined_list = list1 + list2  # Concatenation\nsliced_list = combined_list[1:4]  # Slicing\nlist_length = len(sliced_list)  # Length\ncombined_list.sort()  # Sorting in ascending order\n# List comprehensions\nnumbers = [1, 2, 3, 4, 5]\nsquared_numbers = [x ** 2 for x in numbers]  # List comprehension to square each number\n# List methods",
+        "detail": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "documentation": {}
+    },
+    {
+        "label": "list2",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "description": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "peekOfCode": "list2 = [4, 5, 6]\ncombined_list = list1 + list2  # Concatenation\nsliced_list = combined_list[1:4]  # Slicing\nlist_length = len(sliced_list)  # Length\ncombined_list.sort()  # Sorting in ascending order\n# List comprehensions\nnumbers = [1, 2, 3, 4, 5]\nsquared_numbers = [x ** 2 for x in numbers]  # List comprehension to square each number\n# List methods\nnumbers = [1, 2, 3, 4, 5]",
+        "detail": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "documentation": {}
+    },
+    {
+        "label": "combined_list",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "description": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "peekOfCode": "combined_list = list1 + list2  # Concatenation\nsliced_list = combined_list[1:4]  # Slicing\nlist_length = len(sliced_list)  # Length\ncombined_list.sort()  # Sorting in ascending order\n# List comprehensions\nnumbers = [1, 2, 3, 4, 5]\nsquared_numbers = [x ** 2 for x in numbers]  # List comprehension to square each number\n# List methods\nnumbers = [1, 2, 3, 4, 5]\nnumbers.append(6)  # Append",
+        "detail": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "documentation": {}
+    },
+    {
+        "label": "sliced_list",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "description": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "peekOfCode": "sliced_list = combined_list[1:4]  # Slicing\nlist_length = len(sliced_list)  # Length\ncombined_list.sort()  # Sorting in ascending order\n# List comprehensions\nnumbers = [1, 2, 3, 4, 5]\nsquared_numbers = [x ** 2 for x in numbers]  # List comprehension to square each number\n# List methods\nnumbers = [1, 2, 3, 4, 5]\nnumbers.append(6)  # Append\nnumbers.insert(0, 0)  # Insert",
+        "detail": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "documentation": {}
+    },
+    {
+        "label": "list_length",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "description": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "peekOfCode": "list_length = len(sliced_list)  # Length\ncombined_list.sort()  # Sorting in ascending order\n# List comprehensions\nnumbers = [1, 2, 3, 4, 5]\nsquared_numbers = [x ** 2 for x in numbers]  # List comprehension to square each number\n# List methods\nnumbers = [1, 2, 3, 4, 5]\nnumbers.append(6)  # Append\nnumbers.insert(0, 0)  # Insert\nnumbers.pop()  # Pop",
+        "detail": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "description": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "peekOfCode": "numbers = [1, 2, 3, 4, 5]\nsquared_numbers = [x ** 2 for x in numbers]  # List comprehension to square each number\n# List methods\nnumbers = [1, 2, 3, 4, 5]\nnumbers.append(6)  # Append\nnumbers.insert(0, 0)  # Insert\nnumbers.pop()  # Pop\nnumbers.remove(2)  # Remove\nnumbers.reverse()  # Reverse\nnumbers.sort()  # Sort",
+        "detail": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "documentation": {}
+    },
+    {
+        "label": "squared_numbers",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "description": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "peekOfCode": "squared_numbers = [x ** 2 for x in numbers]  # List comprehension to square each number\n# List methods\nnumbers = [1, 2, 3, 4, 5]\nnumbers.append(6)  # Append\nnumbers.insert(0, 0)  # Insert\nnumbers.pop()  # Pop\nnumbers.remove(2)  # Remove\nnumbers.reverse()  # Reverse\nnumbers.sort()  # Sort",
+        "detail": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "description": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "peekOfCode": "numbers = [1, 2, 3, 4, 5]\nnumbers.append(6)  # Append\nnumbers.insert(0, 0)  # Insert\nnumbers.pop()  # Pop\nnumbers.remove(2)  # Remove\nnumbers.reverse()  # Reverse\nnumbers.sort()  # Sort",
+        "detail": "01_fundations.01_variables_and_data_types.03_secuence.01_lists.list",
+        "documentation": {}
+    },
+    {
+        "label": "fruits",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "description": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "peekOfCode": "fruits = ('apple', 'banana', 'cherry')\n# Accessing tuple elements\nprint(fruits[0]) # Prints apple\n# Immutability\n# fruits[0] = 'orange' # TypeError: 'tuple' object does not support item assignment\n# Tuple Operations\ntuple1 = (1, 2, 3)\ntuple2 = (4, 5, 6)\ncombined_tuple = tuple1 + tuple2  # Concatenation\nsliced_tuple = combined_tuple[1:4]  # Slicing",
+        "detail": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "documentation": {}
+    },
+    {
+        "label": "tuple1",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "description": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "peekOfCode": "tuple1 = (1, 2, 3)\ntuple2 = (4, 5, 6)\ncombined_tuple = tuple1 + tuple2  # Concatenation\nsliced_tuple = combined_tuple[1:4]  # Slicing\ntuple_length = len(sliced_tuple)  # Length \n# Tuple unpacking\npersonOne = ('Marcela', 28)\npersonTwo = ('Andres', 34)\npersonFour = ('Angelo', 7)\npersonThree = ('Arya', 1)",
+        "detail": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "documentation": {}
+    },
+    {
+        "label": "tuple2",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "description": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "peekOfCode": "tuple2 = (4, 5, 6)\ncombined_tuple = tuple1 + tuple2  # Concatenation\nsliced_tuple = combined_tuple[1:4]  # Slicing\ntuple_length = len(sliced_tuple)  # Length \n# Tuple unpacking\npersonOne = ('Marcela', 28)\npersonTwo = ('Andres', 34)\npersonFour = ('Angelo', 7)\npersonThree = ('Arya', 1)\nnewTuple = (personOne, personTwo, personThree, personFour)",
+        "detail": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "documentation": {}
+    },
+    {
+        "label": "combined_tuple",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "description": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "peekOfCode": "combined_tuple = tuple1 + tuple2  # Concatenation\nsliced_tuple = combined_tuple[1:4]  # Slicing\ntuple_length = len(sliced_tuple)  # Length \n# Tuple unpacking\npersonOne = ('Marcela', 28)\npersonTwo = ('Andres', 34)\npersonFour = ('Angelo', 7)\npersonThree = ('Arya', 1)\nnewTuple = (personOne, personTwo, personThree, personFour)\na,b,c,d = newTuple",
+        "detail": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "documentation": {}
+    },
+    {
+        "label": "sliced_tuple",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "description": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "peekOfCode": "sliced_tuple = combined_tuple[1:4]  # Slicing\ntuple_length = len(sliced_tuple)  # Length \n# Tuple unpacking\npersonOne = ('Marcela', 28)\npersonTwo = ('Andres', 34)\npersonFour = ('Angelo', 7)\npersonThree = ('Arya', 1)\nnewTuple = (personOne, personTwo, personThree, personFour)\na,b,c,d = newTuple\nprint(a)",
+        "detail": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "documentation": {}
+    },
+    {
+        "label": "tuple_length",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "description": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "peekOfCode": "tuple_length = len(sliced_tuple)  # Length \n# Tuple unpacking\npersonOne = ('Marcela', 28)\npersonTwo = ('Andres', 34)\npersonFour = ('Angelo', 7)\npersonThree = ('Arya', 1)\nnewTuple = (personOne, personTwo, personThree, personFour)\na,b,c,d = newTuple\nprint(a)",
+        "detail": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "documentation": {}
+    },
+    {
+        "label": "personOne",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "description": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "peekOfCode": "personOne = ('Marcela', 28)\npersonTwo = ('Andres', 34)\npersonFour = ('Angelo', 7)\npersonThree = ('Arya', 1)\nnewTuple = (personOne, personTwo, personThree, personFour)\na,b,c,d = newTuple\nprint(a)",
+        "detail": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "documentation": {}
+    },
+    {
+        "label": "personTwo",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "description": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "peekOfCode": "personTwo = ('Andres', 34)\npersonFour = ('Angelo', 7)\npersonThree = ('Arya', 1)\nnewTuple = (personOne, personTwo, personThree, personFour)\na,b,c,d = newTuple\nprint(a)",
+        "detail": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "documentation": {}
+    },
+    {
+        "label": "personFour",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "description": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "peekOfCode": "personFour = ('Angelo', 7)\npersonThree = ('Arya', 1)\nnewTuple = (personOne, personTwo, personThree, personFour)\na,b,c,d = newTuple\nprint(a)",
+        "detail": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "documentation": {}
+    },
+    {
+        "label": "personThree",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "description": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "peekOfCode": "personThree = ('Arya', 1)\nnewTuple = (personOne, personTwo, personThree, personFour)\na,b,c,d = newTuple\nprint(a)",
+        "detail": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "documentation": {}
+    },
+    {
+        "label": "newTuple",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "description": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "peekOfCode": "newTuple = (personOne, personTwo, personThree, personFour)\na,b,c,d = newTuple\nprint(a)",
+        "detail": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "documentation": {}
+    },
+    {
+        "label": "a,b,c,d",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "description": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "peekOfCode": "a,b,c,d = newTuple\nprint(a)",
+        "detail": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.01_tuple",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_area_and_perimeter",
+        "kind": 2,
+        "importPath": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.02_examples",
+        "description": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.02_examples",
+        "peekOfCode": "def calculate_area_and_perimeter(length, width):\n    area = length * width\n    perimeter = 2 * (length + width)\n    return area, perimeter\narea, perimeter = calculate_area_and_perimeter(4, 5)\n# print(\"Area:\", area)\n# print(\"Perimeter:\", perimeter)\ndef calculate_stats(numbers):\n    minimum = min(numbers)\n    maximum = max(numbers)",
+        "detail": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.02_examples",
+        "documentation": {}
+    },
+    {
+        "label": "calculate_stats",
+        "kind": 2,
+        "importPath": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.02_examples",
+        "description": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.02_examples",
+        "peekOfCode": "def calculate_stats(numbers):\n    minimum = min(numbers)\n    maximum = max(numbers)\n    total = sum(numbers)\n    average = total / len(numbers)\n    return minimum, maximum, total, average\nminimum, maximum, total, average = calculate_stats(\n    [1, 2, 3, 4, 5, 100, -23, 0])\nprint(\"Minimum:\", minimum)\nprint(\"Maximum:\", maximum)",
+        "detail": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.02_examples",
+        "documentation": {}
+    },
+    {
+        "label": "point2D",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.02_examples",
+        "description": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.02_examples",
+        "peekOfCode": "point2D = (3, 4)  # Represents a point in 2D space with x=3 and y=4\npoint3D = (1, 2, 3)  # Represents a point in 3D space with x=1, y=2, and z=3\n# 2. Define configuration settings as key-value pairs in a tuple\nconfig_settings = (\n    (\"server\", \"example.com\"),\n    (\"port\", 8080),\n    (\"debug_mode\", False),\n    (\"max_connections\", 100),\n)\n# 3. Returning multiple values from a function",
+        "detail": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.02_examples",
+        "documentation": {}
+    },
+    {
+        "label": "point3D",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.02_examples",
+        "description": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.02_examples",
+        "peekOfCode": "point3D = (1, 2, 3)  # Represents a point in 3D space with x=1, y=2, and z=3\n# 2. Define configuration settings as key-value pairs in a tuple\nconfig_settings = (\n    (\"server\", \"example.com\"),\n    (\"port\", 8080),\n    (\"debug_mode\", False),\n    (\"max_connections\", 100),\n)\n# 3. Returning multiple values from a function\ndef calculate_area_and_perimeter(length, width):",
+        "detail": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.02_examples",
+        "documentation": {}
+    },
+    {
+        "label": "config_settings",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.02_examples",
+        "description": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.02_examples",
+        "peekOfCode": "config_settings = (\n    (\"server\", \"example.com\"),\n    (\"port\", 8080),\n    (\"debug_mode\", False),\n    (\"max_connections\", 100),\n)\n# 3. Returning multiple values from a function\ndef calculate_area_and_perimeter(length, width):\n    area = length * width\n    perimeter = 2 * (length + width)",
+        "detail": "01_fundations.01_variables_and_data_types.03_secuence.02_tuples.02_examples",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.03_secuence.03_range.range",
+        "description": "01_fundations.01_variables_and_data_types.03_secuence.03_range.range",
+        "peekOfCode": "start = 0\nend = 100\nrange_numbers = range(start, end)\nnumbers = list(range_numbers)\nprint(numbers) # Prints [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]",
+        "detail": "01_fundations.01_variables_and_data_types.03_secuence.03_range.range",
+        "documentation": {}
+    },
+    {
+        "label": "end",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.03_secuence.03_range.range",
+        "description": "01_fundations.01_variables_and_data_types.03_secuence.03_range.range",
+        "peekOfCode": "end = 100\nrange_numbers = range(start, end)\nnumbers = list(range_numbers)\nprint(numbers) # Prints [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]",
+        "detail": "01_fundations.01_variables_and_data_types.03_secuence.03_range.range",
+        "documentation": {}
+    },
+    {
+        "label": "range_numbers",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.03_secuence.03_range.range",
+        "description": "01_fundations.01_variables_and_data_types.03_secuence.03_range.range",
+        "peekOfCode": "range_numbers = range(start, end)\nnumbers = list(range_numbers)\nprint(numbers) # Prints [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]",
+        "detail": "01_fundations.01_variables_and_data_types.03_secuence.03_range.range",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.03_secuence.03_range.range",
+        "description": "01_fundations.01_variables_and_data_types.03_secuence.03_range.range",
+        "peekOfCode": "numbers = list(range_numbers)\nprint(numbers) # Prints [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]",
+        "detail": "01_fundations.01_variables_and_data_types.03_secuence.03_range.range",
+        "documentation": {}
+    },
+    {
+        "label": "student",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "description": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "peekOfCode": "student = {\n    \"name\": \"Alice\",\n    \"age\": 25,\n    \"grade\": \"A\",\n}\n# Accessing dictionary elements\nprint(student[\"name\"])  # Prints Alice\nprint(student[\"age\"])  # Prints 25\n# Modifying dictionary elements\nstudent[\"grade\"] = \"B\"",
+        "detail": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "documentation": {}
+    },
+    {
+        "label": "student[\"grade\"]",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "description": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "peekOfCode": "student[\"grade\"] = \"B\"\nprint(student[\"grade\"])  # Prints B\n# Adding dictionary elements\nstudent[\"city\"] = \"New York\"\nstudent[\"isSingle\"] = True\nprint(student)\n# Removing dictionary elements\ndel student[\"isSingle\"]\nprint(student)\n# Dictionaries Operations",
+        "detail": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "documentation": {}
+    },
+    {
+        "label": "student[\"city\"]",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "description": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "peekOfCode": "student[\"city\"] = \"New York\"\nstudent[\"isSingle\"] = True\nprint(student)\n# Removing dictionary elements\ndel student[\"isSingle\"]\nprint(student)\n# Dictionaries Operations\nstudent = {\n    \"name\": \"Alice\",\n    \"age\": 25,",
+        "detail": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "documentation": {}
+    },
+    {
+        "label": "student[\"isSingle\"]",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "description": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "peekOfCode": "student[\"isSingle\"] = True\nprint(student)\n# Removing dictionary elements\ndel student[\"isSingle\"]\nprint(student)\n# Dictionaries Operations\nstudent = {\n    \"name\": \"Alice\",\n    \"age\": 25,\n    \"grade\": \"A\",",
+        "detail": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "documentation": {}
+    },
+    {
+        "label": "student",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "description": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "peekOfCode": "student = {\n    \"name\": \"Alice\",\n    \"age\": 25,\n    \"grade\": \"A\",\n    \"city\": \"New York\",\n    \"isSingle\": True,\n    \"roommates\": [\"Bob\", \"Charlie\", \"David\", \"Eve\"],\n}\n# Checking if a key exists\nprint(\"name\" in student)  # Prints True",
+        "detail": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "documentation": {}
+    },
+    {
+        "label": "new_student",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "description": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "peekOfCode": "new_student = student.copy()\nprint(new_student)  # Prints {'name': 'Alice', 'age': 25, 'grade': 'A', 'city': 'New York', 'isSingle': True, 'roommates': ['Bob', 'Charlie', 'David', 'Eve']}\n# Iterating over a dictionary\nfor key in student:\n    print(key)  # Prints name, age, grade, city, isSingle, roommates\n# Dictionary unpacking\npersonOne = {'name': 'Alice', 'age': 25} # Create a dictionary\npersonTwo = {'name': 'Bob', 'age': 30} # Create a dictionary\npersonThree = {'name': 'Charlie', 'age': 35} # Create a dictionary\nnewDictionary = {'personOne': personOne, 'personTwo': personTwo, 'personThree': personThree} # Create a dictionary",
+        "detail": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "documentation": {}
+    },
+    {
+        "label": "personOne",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "description": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "peekOfCode": "personOne = {'name': 'Alice', 'age': 25} # Create a dictionary\npersonTwo = {'name': 'Bob', 'age': 30} # Create a dictionary\npersonThree = {'name': 'Charlie', 'age': 35} # Create a dictionary\nnewDictionary = {'personOne': personOne, 'personTwo': personTwo, 'personThree': personThree} # Create a dictionary\na, b, c = newDictionary\n# Dictionary comprehension to create a dictionary of squares\nnumbers = [1, 2, 3, 4, 5]\nsquares = {num: num ** 2 for num in numbers}\nprint(squares)",
+        "detail": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "documentation": {}
+    },
+    {
+        "label": "personTwo",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "description": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "peekOfCode": "personTwo = {'name': 'Bob', 'age': 30} # Create a dictionary\npersonThree = {'name': 'Charlie', 'age': 35} # Create a dictionary\nnewDictionary = {'personOne': personOne, 'personTwo': personTwo, 'personThree': personThree} # Create a dictionary\na, b, c = newDictionary\n# Dictionary comprehension to create a dictionary of squares\nnumbers = [1, 2, 3, 4, 5]\nsquares = {num: num ** 2 for num in numbers}\nprint(squares)",
+        "detail": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "documentation": {}
+    },
+    {
+        "label": "personThree",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "description": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "peekOfCode": "personThree = {'name': 'Charlie', 'age': 35} # Create a dictionary\nnewDictionary = {'personOne': personOne, 'personTwo': personTwo, 'personThree': personThree} # Create a dictionary\na, b, c = newDictionary\n# Dictionary comprehension to create a dictionary of squares\nnumbers = [1, 2, 3, 4, 5]\nsquares = {num: num ** 2 for num in numbers}\nprint(squares)",
+        "detail": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "documentation": {}
+    },
+    {
+        "label": "newDictionary",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "description": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "peekOfCode": "newDictionary = {'personOne': personOne, 'personTwo': personTwo, 'personThree': personThree} # Create a dictionary\na, b, c = newDictionary\n# Dictionary comprehension to create a dictionary of squares\nnumbers = [1, 2, 3, 4, 5]\nsquares = {num: num ** 2 for num in numbers}\nprint(squares)",
+        "detail": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "description": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "peekOfCode": "numbers = [1, 2, 3, 4, 5]\nsquares = {num: num ** 2 for num in numbers}\nprint(squares)",
+        "detail": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "documentation": {}
+    },
+    {
+        "label": "squares",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "description": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "peekOfCode": "squares = {num: num ** 2 for num in numbers}\nprint(squares)",
+        "detail": "01_fundations.01_variables_and_data_types.04_mapping.01_dictionaries.dictionaries",
+        "documentation": {}
+    },
+    {
+        "label": "fruits",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.05_sets.01_sets.sets",
+        "description": "01_fundations.01_variables_and_data_types.05_sets.01_sets.sets",
+        "peekOfCode": "fruits = {\"apple\", \"banana\", \"cherry\"}\ncolors = set([\"red\", \"green\", \"blue\"])\n# Adding elements to a set\nfruits.add(\"orange\")\ncolors.add(\"orange\")\n# Removing elements from a set\nfruits.remove(\"orange\")\n# Set operations\nset1 = {1, 2, 3, 4, 5}\nset2 = {3, 4, 5}",
+        "detail": "01_fundations.01_variables_and_data_types.05_sets.01_sets.sets",
+        "documentation": {}
+    },
+    {
+        "label": "colors",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.05_sets.01_sets.sets",
+        "description": "01_fundations.01_variables_and_data_types.05_sets.01_sets.sets",
+        "peekOfCode": "colors = set([\"red\", \"green\", \"blue\"])\n# Adding elements to a set\nfruits.add(\"orange\")\ncolors.add(\"orange\")\n# Removing elements from a set\nfruits.remove(\"orange\")\n# Set operations\nset1 = {1, 2, 3, 4, 5}\nset2 = {3, 4, 5}\nunion_result = set1 | set2  # Union",
+        "detail": "01_fundations.01_variables_and_data_types.05_sets.01_sets.sets",
+        "documentation": {}
+    },
+    {
+        "label": "set1",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.05_sets.01_sets.sets",
+        "description": "01_fundations.01_variables_and_data_types.05_sets.01_sets.sets",
+        "peekOfCode": "set1 = {1, 2, 3, 4, 5}\nset2 = {3, 4, 5}\nunion_result = set1 | set2  # Union\nintersection_result = set1 & set2  # Intersection\ndifference_result = set1 - set2  # Difference\nis_subset = set1.issubset(set2)  # Subset check\nis_superset = set1.issuperset(set2)  # Superset check\nprint(is_subset)\nprint(is_superset)",
+        "detail": "01_fundations.01_variables_and_data_types.05_sets.01_sets.sets",
+        "documentation": {}
+    },
+    {
+        "label": "set2",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.05_sets.01_sets.sets",
+        "description": "01_fundations.01_variables_and_data_types.05_sets.01_sets.sets",
+        "peekOfCode": "set2 = {3, 4, 5}\nunion_result = set1 | set2  # Union\nintersection_result = set1 & set2  # Intersection\ndifference_result = set1 - set2  # Difference\nis_subset = set1.issubset(set2)  # Subset check\nis_superset = set1.issuperset(set2)  # Superset check\nprint(is_subset)\nprint(is_superset)",
+        "detail": "01_fundations.01_variables_and_data_types.05_sets.01_sets.sets",
+        "documentation": {}
+    },
+    {
+        "label": "union_result",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.05_sets.01_sets.sets",
+        "description": "01_fundations.01_variables_and_data_types.05_sets.01_sets.sets",
+        "peekOfCode": "union_result = set1 | set2  # Union\nintersection_result = set1 & set2  # Intersection\ndifference_result = set1 - set2  # Difference\nis_subset = set1.issubset(set2)  # Subset check\nis_superset = set1.issuperset(set2)  # Superset check\nprint(is_subset)\nprint(is_superset)",
+        "detail": "01_fundations.01_variables_and_data_types.05_sets.01_sets.sets",
+        "documentation": {}
+    },
+    {
+        "label": "intersection_result",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.05_sets.01_sets.sets",
+        "description": "01_fundations.01_variables_and_data_types.05_sets.01_sets.sets",
+        "peekOfCode": "intersection_result = set1 & set2  # Intersection\ndifference_result = set1 - set2  # Difference\nis_subset = set1.issubset(set2)  # Subset check\nis_superset = set1.issuperset(set2)  # Superset check\nprint(is_subset)\nprint(is_superset)",
+        "detail": "01_fundations.01_variables_and_data_types.05_sets.01_sets.sets",
+        "documentation": {}
+    },
+    {
+        "label": "difference_result",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.05_sets.01_sets.sets",
+        "description": "01_fundations.01_variables_and_data_types.05_sets.01_sets.sets",
+        "peekOfCode": "difference_result = set1 - set2  # Difference\nis_subset = set1.issubset(set2)  # Subset check\nis_superset = set1.issuperset(set2)  # Superset check\nprint(is_subset)\nprint(is_superset)",
+        "detail": "01_fundations.01_variables_and_data_types.05_sets.01_sets.sets",
+        "documentation": {}
+    },
+    {
+        "label": "is_subset",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.05_sets.01_sets.sets",
+        "description": "01_fundations.01_variables_and_data_types.05_sets.01_sets.sets",
+        "peekOfCode": "is_subset = set1.issubset(set2)  # Subset check\nis_superset = set1.issuperset(set2)  # Superset check\nprint(is_subset)\nprint(is_superset)",
+        "detail": "01_fundations.01_variables_and_data_types.05_sets.01_sets.sets",
+        "documentation": {}
+    },
+    {
+        "label": "is_superset",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.05_sets.01_sets.sets",
+        "description": "01_fundations.01_variables_and_data_types.05_sets.01_sets.sets",
+        "peekOfCode": "is_superset = set1.issuperset(set2)  # Superset check\nprint(is_subset)\nprint(is_superset)",
+        "detail": "01_fundations.01_variables_and_data_types.05_sets.01_sets.sets",
+        "documentation": {}
+    },
+    {
+        "label": "fruits",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.05_sets.02_frozen_set.frozen_sets",
+        "description": "01_fundations.01_variables_and_data_types.05_sets.02_frozen_set.frozen_sets",
+        "peekOfCode": "fruits = frozenset([\"apple\", \"banana\", \"cherry\"])\n# fruits.add(\"orange\") # TypeError: 'frozenset' object does not support item assignment",
+        "detail": "01_fundations.01_variables_and_data_types.05_sets.02_frozen_set.frozen_sets",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.06_booleans.booleans",
+        "description": "01_fundations.01_variables_and_data_types.06_booleans.booleans",
+        "peekOfCode": "x = 10\ny = 20\nz = 10\nprint(x < y) # Evaluates to True\nprint(x > y) # Evaluates to False\nprint(x == z) # Evaluates to True\nprint(x != y) # Evaluates to True\nprint(x <= y) # Evaluates to True\nis_sunny = True\nis_warm = True",
+        "detail": "01_fundations.01_variables_and_data_types.06_booleans.booleans",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.06_booleans.booleans",
+        "description": "01_fundations.01_variables_and_data_types.06_booleans.booleans",
+        "peekOfCode": "y = 20\nz = 10\nprint(x < y) # Evaluates to True\nprint(x > y) # Evaluates to False\nprint(x == z) # Evaluates to True\nprint(x != y) # Evaluates to True\nprint(x <= y) # Evaluates to True\nis_sunny = True\nis_warm = True\nif is_sunny and is_warm:",
+        "detail": "01_fundations.01_variables_and_data_types.06_booleans.booleans",
+        "documentation": {}
+    },
+    {
+        "label": "z",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.06_booleans.booleans",
+        "description": "01_fundations.01_variables_and_data_types.06_booleans.booleans",
+        "peekOfCode": "z = 10\nprint(x < y) # Evaluates to True\nprint(x > y) # Evaluates to False\nprint(x == z) # Evaluates to True\nprint(x != y) # Evaluates to True\nprint(x <= y) # Evaluates to True\nis_sunny = True\nis_warm = True\nif is_sunny and is_warm:\n    print(\"It's a great day for outdoor sports. Go outside!\")",
+        "detail": "01_fundations.01_variables_and_data_types.06_booleans.booleans",
+        "documentation": {}
+    },
+    {
+        "label": "is_sunny",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.06_booleans.booleans",
+        "description": "01_fundations.01_variables_and_data_types.06_booleans.booleans",
+        "peekOfCode": "is_sunny = True\nis_warm = True\nif is_sunny and is_warm:\n    print(\"It's a great day for outdoor sports. Go outside!\")\n# Truthiness and Falsiness\nvalue = 0\nif value:\n    print(\"Value is Truthy\")\nelse:\n    print(\"Value is Falsy\")",
+        "detail": "01_fundations.01_variables_and_data_types.06_booleans.booleans",
+        "documentation": {}
+    },
+    {
+        "label": "is_warm",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.06_booleans.booleans",
+        "description": "01_fundations.01_variables_and_data_types.06_booleans.booleans",
+        "peekOfCode": "is_warm = True\nif is_sunny and is_warm:\n    print(\"It's a great day for outdoor sports. Go outside!\")\n# Truthiness and Falsiness\nvalue = 0\nif value:\n    print(\"Value is Truthy\")\nelse:\n    print(\"Value is Falsy\")",
+        "detail": "01_fundations.01_variables_and_data_types.06_booleans.booleans",
+        "documentation": {}
+    },
+    {
+        "label": "value",
+        "kind": 5,
+        "importPath": "01_fundations.01_variables_and_data_types.06_booleans.booleans",
+        "description": "01_fundations.01_variables_and_data_types.06_booleans.booleans",
+        "peekOfCode": "value = 0\nif value:\n    print(\"Value is Truthy\")\nelse:\n    print(\"Value is Falsy\")",
+        "detail": "01_fundations.01_variables_and_data_types.06_booleans.booleans",
+        "documentation": {}
+    },
+    {
+        "label": "number",
+        "kind": 5,
+        "importPath": "01_fundations.02_control_flow.01_if_Statements.if_statements",
+        "description": "01_fundations.02_control_flow.01_if_Statements.if_statements",
+        "peekOfCode": "number = int(input(\"Enter a number: \"))\n# Check if the number is even or odd\nif number % 2 == 0:\n    print(f\"{number} is an even number.\")\nelse:\n    print(f\"{number} is an odd number.\")",
+        "detail": "01_fundations.02_control_flow.01_if_Statements.if_statements",
+        "documentation": {}
+    },
+    {
+        "label": "numbers",
+        "kind": 5,
+        "importPath": "01_fundations.02_control_flow.02_loops.01_for",
+        "description": "01_fundations.02_control_flow.02_loops.01_for",
+        "peekOfCode": "numbers = [1, 2, 3, 4, 5]\n# Initialize a variable to store the sum\nsum_of_numbers = 0\n# Use a for loop to iterate through the list and calculate the sum\nfor number in numbers:\n    sum_of_numbers += number\n# Print the result\nprint(f\"The sum of numbers in the list is: {sum_of_numbers}\") # Prints 15",
+        "detail": "01_fundations.02_control_flow.02_loops.01_for",
+        "documentation": {}
+    },
+    {
+        "label": "sum_of_numbers",
+        "kind": 5,
+        "importPath": "01_fundations.02_control_flow.02_loops.01_for",
+        "description": "01_fundations.02_control_flow.02_loops.01_for",
+        "peekOfCode": "sum_of_numbers = 0\n# Use a for loop to iterate through the list and calculate the sum\nfor number in numbers:\n    sum_of_numbers += number\n# Print the result\nprint(f\"The sum of numbers in the list is: {sum_of_numbers}\") # Prints 15",
+        "detail": "01_fundations.02_control_flow.02_loops.01_for",
+        "documentation": {}
+    },
+    {
+        "label": "number",
+        "kind": 5,
+        "importPath": "01_fundations.02_control_flow.02_loops.02_while",
+        "description": "01_fundations.02_control_flow.02_loops.02_while",
+        "peekOfCode": "number = int(input(\"Enter a number: \"))\n# Initialize variables\nfactorial = 1\ncurrent_number = 1\n# Calculate the factorial using a while loop\nwhile current_number <= number:\n    factorial *= current_number\n    current_number += 1\n# Print the result\nprint(f\"The factorial of {number} is {factorial}\")",
+        "detail": "01_fundations.02_control_flow.02_loops.02_while",
+        "documentation": {}
+    },
+    {
+        "label": "factorial",
+        "kind": 5,
+        "importPath": "01_fundations.02_control_flow.02_loops.02_while",
+        "description": "01_fundations.02_control_flow.02_loops.02_while",
+        "peekOfCode": "factorial = 1\ncurrent_number = 1\n# Calculate the factorial using a while loop\nwhile current_number <= number:\n    factorial *= current_number\n    current_number += 1\n# Print the result\nprint(f\"The factorial of {number} is {factorial}\")",
+        "detail": "01_fundations.02_control_flow.02_loops.02_while",
+        "documentation": {}
+    },
+    {
+        "label": "current_number",
+        "kind": 5,
+        "importPath": "01_fundations.02_control_flow.02_loops.02_while",
+        "description": "01_fundations.02_control_flow.02_loops.02_while",
+        "peekOfCode": "current_number = 1\n# Calculate the factorial using a while loop\nwhile current_number <= number:\n    factorial *= current_number\n    current_number += 1\n# Print the result\nprint(f\"The factorial of {number} is {factorial}\")",
+        "detail": "01_fundations.02_control_flow.02_loops.02_while",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 5,
+        "importPath": "01_fundations.02_control_flow.02_loops.04_nested_loops",
+        "description": "01_fundations.02_control_flow.02_loops.04_nested_loops",
+        "peekOfCode": "start = 1\nend = 10\n# Outer loop for rows\nfor i in range(start, end + 1):\n    # Inner loop for columns\n    for j in range(start, end + 1):\n        # Calculate and print the product\n        product = i * j\n        print(f\"{i} x {j} = {product}\", end=\"\\t\")  # Use '\\t' for tab spacing\n    # Move to the next line for the next row",
+        "detail": "01_fundations.02_control_flow.02_loops.04_nested_loops",
+        "documentation": {}
+    },
+    {
+        "label": "end",
+        "kind": 5,
+        "importPath": "01_fundations.02_control_flow.02_loops.04_nested_loops",
+        "description": "01_fundations.02_control_flow.02_loops.04_nested_loops",
+        "peekOfCode": "end = 10\n# Outer loop for rows\nfor i in range(start, end + 1):\n    # Inner loop for columns\n    for j in range(start, end + 1):\n        # Calculate and print the product\n        product = i * j\n        print(f\"{i} x {j} = {product}\", end=\"\\t\")  # Use '\\t' for tab spacing\n    # Move to the next line for the next row\n    print()",
+        "detail": "01_fundations.02_control_flow.02_loops.04_nested_loops",
+        "documentation": {}
+    },
+    {
+        "label": "function_name",
+        "kind": 2,
+        "importPath": "01_fundations.03_functions.funtions",
+        "description": "01_fundations.03_functions.funtions",
+        "peekOfCode": "def function_name():\n    # body of the function\n    # Perform operations\n    # Optional return a value\n    print(\"Hello World\")\n# Function with parameters and default values\ndef describe_person(name, age=25, city=\"New York\", *hobbies, **info):\n    print(f\"Name: {name}\")\n    print(f\"Age: {age}\")\n    print(f\"City: {city}\")",
+        "detail": "01_fundations.03_functions.funtions",
+        "documentation": {}
+    },
+    {
+        "label": "describe_person",
+        "kind": 2,
+        "importPath": "01_fundations.03_functions.funtions",
+        "description": "01_fundations.03_functions.funtions",
+        "peekOfCode": "def describe_person(name, age=25, city=\"New York\", *hobbies, **info):\n    print(f\"Name: {name}\")\n    print(f\"Age: {age}\")\n    print(f\"City: {city}\")\n    print(f\"Hobbies: {', '.join(hobbies)}\")\n    print(\"Additional Info:\")\n    for key, value in info.items():\n        print(f\"{key}: {value}\")\n# Call the function\ndescribe_person(\"Andres\", 34, \"Buga\", \"Reading\", \"Writing\",",
+        "detail": "01_fundations.03_functions.funtions",
+        "documentation": {}
+    },
+    {
+        "label": "number_of_args",
+        "kind": 2,
+        "importPath": "01_fundations.03_functions.funtions",
+        "description": "01_fundations.03_functions.funtions",
+        "peekOfCode": "def number_of_args(*args):\n    result = 0\n    for number in args:\n        result += number\n    return result\nprint(number_of_args(1, 2, 3, 4, 5))  # Prints 15\n# Explain arbitrary keyword arguments\n# Use **kwargs\ndef person(**kwargs):\n    newPerson = {}",
+        "detail": "01_fundations.03_functions.funtions",
+        "documentation": {}
+    },
+    {
+        "label": "person",
+        "kind": 2,
+        "importPath": "01_fundations.03_functions.funtions",
+        "description": "01_fundations.03_functions.funtions",
+        "peekOfCode": "def person(**kwargs):\n    newPerson = {}\n    for key, value in kwargs.items():\n        newPerson[key] = value\n    return newPerson\n# Prints Name: Andres, Age: 34, City: Buga, Country: Colombia\nprint(person(name=\"Andres\", age=34, city=\"Buga\", country=\"Colombia\"))",
+        "detail": "01_fundations.03_functions.funtions",
+        "documentation": {}
+    },
+    {
+        "label": "Product",
+        "kind": 6,
+        "importPath": "05_Projects.01_api.fastApi.models.product",
+        "description": "05_Projects.01_api.fastApi.models.product",
+        "peekOfCode": "class Product():\n    id: int\n    name: str\n    description: str\n    price: float\n    stock: int",
+        "detail": "05_Projects.01_api.fastApi.models.product",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "05_Projects.01_api.fastApi.models.user",
+        "description": "05_Projects.01_api.fastApi.models.user",
+        "peekOfCode": "class User():\n    id: int\n    name: str\n    email: str\n    password: str\n    def __init__(self, id, name, email, password):\n        self.id = id\n        self.name = name\n        self.email = email\n        self.password = password",
+        "detail": "05_Projects.01_api.fastApi.models.user",
+        "documentation": {}
+    },
+    {
+        "label": "get_products",
+        "kind": 2,
+        "importPath": "05_Projects.01_api.fastApi.routers.product_routes",
+        "description": "05_Projects.01_api.fastApi.routers.product_routes",
+        "peekOfCode": "def get_products():\n    return products_list\n@router.get(\"/{product_id}\")\ndef get_product(product_id: int):\n    for product in products_list:\n        if product[\"id\"] == product_id:\n            return product\n        else:\n            return \"product not found\"\n@router.post(\"/\")",
+        "detail": "05_Projects.01_api.fastApi.routers.product_routes",
+        "documentation": {}
+    },
+    {
+        "label": "get_product",
+        "kind": 2,
+        "importPath": "05_Projects.01_api.fastApi.routers.product_routes",
+        "description": "05_Projects.01_api.fastApi.routers.product_routes",
+        "peekOfCode": "def get_product(product_id: int):\n    for product in products_list:\n        if product[\"id\"] == product_id:\n            return product\n        else:\n            return \"product not found\"\n@router.post(\"/\")\ndef create_product(name: str):\n    product = {\"id\": len(products_list) + 1, \"name\": name}\n    products_list.append(product)",
+        "detail": "05_Projects.01_api.fastApi.routers.product_routes",
+        "documentation": {}
+    },
+    {
+        "label": "create_product",
+        "kind": 2,
+        "importPath": "05_Projects.01_api.fastApi.routers.product_routes",
+        "description": "05_Projects.01_api.fastApi.routers.product_routes",
+        "peekOfCode": "def create_product(name: str):\n    product = {\"id\": len(products_list) + 1, \"name\": name}\n    products_list.append(product)\n    return product\n@router.put(\"/{product_id}\")\ndef update_product(product_id: int, name: str):\n    for product in products_list:\n        if product[\"id\"] == product_id:\n            product[\"name\"] = name\n            return product",
+        "detail": "05_Projects.01_api.fastApi.routers.product_routes",
+        "documentation": {}
+    },
+    {
+        "label": "update_product",
+        "kind": 2,
+        "importPath": "05_Projects.01_api.fastApi.routers.product_routes",
+        "description": "05_Projects.01_api.fastApi.routers.product_routes",
+        "peekOfCode": "def update_product(product_id: int, name: str):\n    for product in products_list:\n        if product[\"id\"] == product_id:\n            product[\"name\"] = name\n            return product\n        else:\n            return \"product not found\"\n@router.delete(\"/{product_id}\")\ndef delete_product(product_id: int):\n    for product in products_list:",
+        "detail": "05_Projects.01_api.fastApi.routers.product_routes",
+        "documentation": {}
+    },
+    {
+        "label": "delete_product",
+        "kind": 2,
+        "importPath": "05_Projects.01_api.fastApi.routers.product_routes",
+        "description": "05_Projects.01_api.fastApi.routers.product_routes",
+        "peekOfCode": "def delete_product(product_id: int):\n    for product in products_list:\n        if product[\"id\"] == product_id:\n            products_list.remove(product)\n            return product\n        else:\n            return \"product not found\"",
+        "detail": "05_Projects.01_api.fastApi.routers.product_routes",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "05_Projects.01_api.fastApi.routers.product_routes",
+        "description": "05_Projects.01_api.fastApi.routers.product_routes",
+        "peekOfCode": "router = APIRouter(prefix=\"/products\")\nproducts_list = [{\"id\": 1, \"name\": \"Product 1\"}, {\"id\": 2, \"name\": \"Product 2\"}, {\n    \"id\": 3, \"name\": \"Product 3\"\n}, {\"id\": 4, \"name\": \"Product 4\"}]\n@router.get(\"/\")\ndef get_products():\n    return products_list\n@router.get(\"/{product_id}\")\ndef get_product(product_id: int):\n    for product in products_list:",
+        "detail": "05_Projects.01_api.fastApi.routers.product_routes",
+        "documentation": {}
+    },
+    {
+        "label": "products_list",
+        "kind": 5,
+        "importPath": "05_Projects.01_api.fastApi.routers.product_routes",
+        "description": "05_Projects.01_api.fastApi.routers.product_routes",
+        "peekOfCode": "products_list = [{\"id\": 1, \"name\": \"Product 1\"}, {\"id\": 2, \"name\": \"Product 2\"}, {\n    \"id\": 3, \"name\": \"Product 3\"\n}, {\"id\": 4, \"name\": \"Product 4\"}]\n@router.get(\"/\")\ndef get_products():\n    return products_list\n@router.get(\"/{product_id}\")\ndef get_product(product_id: int):\n    for product in products_list:\n        if product[\"id\"] == product_id:",
+        "detail": "05_Projects.01_api.fastApi.routers.product_routes",
+        "documentation": {}
+    },
+    {
+        "label": "get_users",
+        "kind": 2,
+        "importPath": "05_Projects.01_api.fastApi.routers.user_routes",
+        "description": "05_Projects.01_api.fastApi.routers.user_routes",
+        "peekOfCode": "def get_users():\n    return users\n@router.get(\"/{user_id}\")\ndef get_user(user_id):\n    for user in users:\n        if user[\"id\"] == user_id:\n            return user\n        else:\n            return \"user not found\"\n@router.post(\"/\")",
+        "detail": "05_Projects.01_api.fastApi.routers.user_routes",
+        "documentation": {}
+    },
+    {
+        "label": "get_user",
+        "kind": 2,
+        "importPath": "05_Projects.01_api.fastApi.routers.user_routes",
+        "description": "05_Projects.01_api.fastApi.routers.user_routes",
+        "peekOfCode": "def get_user(user_id):\n    for user in users:\n        if user[\"id\"] == user_id:\n            return user\n        else:\n            return \"user not found\"\n@router.post(\"/\")\ndef create_user(name):\n    user = {\"id\": len(users) + 1, \"name\": name}\n    users.append(user)",
+        "detail": "05_Projects.01_api.fastApi.routers.user_routes",
+        "documentation": {}
+    },
+    {
+        "label": "create_user",
+        "kind": 2,
+        "importPath": "05_Projects.01_api.fastApi.routers.user_routes",
+        "description": "05_Projects.01_api.fastApi.routers.user_routes",
+        "peekOfCode": "def create_user(name):\n    user = {\"id\": len(users) + 1, \"name\": name}\n    users.append(user)\n    return user\n@router.put(\"/{user_id}\")\ndef update_user(user_id, name):\n    for user in users:\n        if user[\"id\"] == user_id:\n            user[\"name\"] = name\n            return user",
+        "detail": "05_Projects.01_api.fastApi.routers.user_routes",
+        "documentation": {}
+    },
+    {
+        "label": "update_user",
+        "kind": 2,
+        "importPath": "05_Projects.01_api.fastApi.routers.user_routes",
+        "description": "05_Projects.01_api.fastApi.routers.user_routes",
+        "peekOfCode": "def update_user(user_id, name):\n    for user in users:\n        if user[\"id\"] == user_id:\n            user[\"name\"] = name\n            return user\n        else:\n            return \"user not found\"\n@router.delete(\"/{user_id}\")\ndef delete_user(user_id):\n    for user in users:",
+        "detail": "05_Projects.01_api.fastApi.routers.user_routes",
+        "documentation": {}
+    },
+    {
+        "label": "delete_user",
+        "kind": 2,
+        "importPath": "05_Projects.01_api.fastApi.routers.user_routes",
+        "description": "05_Projects.01_api.fastApi.routers.user_routes",
+        "peekOfCode": "def delete_user(user_id):\n    for user in users:\n        if user[\"id\"] == user_id:\n            users.remove(user)\n            return user\n        else:\n            return \"user not found\"",
+        "detail": "05_Projects.01_api.fastApi.routers.user_routes",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "05_Projects.01_api.fastApi.routers.user_routes",
+        "description": "05_Projects.01_api.fastApi.routers.user_routes",
+        "peekOfCode": "router = APIRouter(prefix=\"/users\")\nusers: list[User] = [{'id': 1, 'name': 'Bard', 'email': 'bard@example.com', 'password': 'password123'},\n                     {'id': 2, 'name': 'Alice', 'email': 'alice@example.com',\n                         'password': 'qwerty123'},\n                     {'id': 3, 'name': 'Bob', 'email': 'bob@example.com',\n                         'password': '123456'},\n                     {'id': 4, 'name': 'Carol', 'email': 'carol@example.com', 'password': 'password123'}]\n@router.get(\"/\")\ndef get_users():\n    return users",
+        "detail": "05_Projects.01_api.fastApi.routers.user_routes",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "05_Projects.01_api.fastApi.main",
+        "description": "05_Projects.01_api.fastApi.main",
+        "peekOfCode": "app = FastAPI()\n# Routers\napp.include_router(user_routes.router)\napp.include_router(product_routes.router)\nif __name__ == \"__main__\":\n    uvicorn.run(app, host=\"127.0.0.1\", port=8000)",
+        "detail": "05_Projects.01_api.fastApi.main",
+        "documentation": {}
+    }
+]

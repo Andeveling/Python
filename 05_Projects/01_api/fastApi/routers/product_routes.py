@@ -1,11 +1,28 @@
 from fastapi import APIRouter
-
-
 router = APIRouter(prefix="/products")
 
-products_list = [{"id": 1, "name": "Product 1"}, {"id": 2, "name": "Product 2"}, {
-    "id": 3, "name": "Product 3"
-}, {"id": 4, "name": "Product 4"}]
+
+class Product():
+    id: int
+    name: str
+    description: str
+    price: float
+    stock: int
+
+    def __init__(self, id, name, description, price, stock):
+        self.id = id
+        self.name = name
+        self.description = description
+        self.price = price
+        self.stock = stock
+
+
+products_list: list[Product] = [{'id': 1, 'name': 'Book', 'description': 'A book', 'price': 10.0, 'stock': 10},
+                                {'id': 2, 'name': 'Pen', 'description': 'A pen',
+                                    'price': 1.0, 'stock': 10},
+                                {'id': 3, 'name': 'Pencil', 'description': 'A pencil',
+                                    'price': 0.5, 'stock': 10},
+                                {'id': 4, 'name': 'Eraser', 'description': 'An eraser', 'price': 1.5, 'stock': 10},]
 
 
 @router.get("/")
@@ -23,8 +40,8 @@ def get_product(product_id: int):
 
 
 @router.post("/")
-def create_product(name: str):
-    product = {"id": len(products_list) + 1, "name": name}
+def create_product(product: Product):
+    product["id"] = len(products_list) + 1
     products_list.append(product)
     return product
 
